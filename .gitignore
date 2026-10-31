@@ -1,3 +1,6 @@
+# Ignore the 'data' directory
+data/
+
 .OTTER_LOG
 
 # Byte-compiled / optimized / DLL files
